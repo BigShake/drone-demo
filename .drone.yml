@@ -1,6 +1,6 @@
 workspace:
   base: /home/shawanning/kafka/drone-demo/aoo.go
-  path: .
+  path: 
 
 pipeline:
   build:
